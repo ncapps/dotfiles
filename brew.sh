@@ -100,6 +100,7 @@ brew install tree
 # brew install zopfli
 
 # Install my tools
+brew install awscli
 brew install --cask docker
 brew install --cask firefox
 brew install go
