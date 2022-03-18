@@ -104,6 +104,7 @@ brew install --cask docker
 brew install --cask firefox
 brew install go
 brew install --cask iterm2
+brew install --cask kindle
 brew install python@3.10
 brew tap hashicorp/tap
 brew install terraform
