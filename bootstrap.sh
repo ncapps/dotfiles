@@ -13,7 +13,7 @@ function doIt() {
 		--exclude "LICENSE-MIT.txt" \
 		--exclude "ignore/" \
 		-avh --no-perms . ~;
-	source ~/.bash_profile;
+	# source ~/.bash_profile;
 }
 
 if [ "$1" == "--force" -o "$1" == "-f" ]; then
