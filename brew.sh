@@ -108,6 +108,7 @@ brew install go
 brew install --cask iterm2
 brew install --cask kindle
 brew install python@3.10
+brew install --cask spotify
 brew tap hashicorp/tap
 brew install terraform
 brew install --cask visual-studio-code
