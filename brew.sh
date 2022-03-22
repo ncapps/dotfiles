@@ -102,6 +102,7 @@ brew install tree
 
 # Install my tools
 brew install awscli
+brew install azure-cli
 brew install --cask docker
 brew install --cask firefox
 brew install go
