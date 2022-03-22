@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Add homebrew binaries to PATH
-export PATH="/usr/local/opt/vim/bin:/usr/local/opt/gnu-sed/libexec/gnubin:$PATH"
+export PATH="/usr/local/opt/python@3.10/bin:/usr/local/opt/vim/bin:/usr/local/opt/gnu-sed/libexec/gnubin:$PATH"
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
